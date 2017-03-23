@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\CMIT\\SSM\\Sourcecode\\SSM_001_Installation\\Res1',namePairs:[]}]};
